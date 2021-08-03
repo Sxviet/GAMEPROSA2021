@@ -1,1 +1,4 @@
 # GAMEPROSA2021
+
+Nama  : Aldo Nova R
+NIM   : A11.2017.10473
