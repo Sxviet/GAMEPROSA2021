@@ -1,0 +1,5 @@
+Cube -> Component = transform, cube (mesh filter), mesh renderer,box collider
+Sphere -> Component = transform, sphere (mesh filter), mesh renderer, sphere collider
+Capsule -> Component = transform, capsule (mesh filter), mesh renderer, capsule collider
+Quad -> Component = transform, quad (mesh filter), mesh collider
+Plane -> Component = transform, plane (mesh filter), mesh renderer, mesh collider
